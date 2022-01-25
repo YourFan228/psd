@@ -1,0 +1,148 @@
+.head {
+    height: 700px;
+    background-color:#e6e6fa ;
+    margin: 0%;
+}
+
+.body {
+    margin: 0%;
+}
+.gip {
+    text-align: right;
+    padding: 40px 100px 0px 0px;
+    word-spacing: 30px;
+    
+    font-weight: bold;
+}
+.a {
+    color: black;
+    
+}
+.a:active {
+    color: black;
+}
+.ahome {
+    color: #00ced1;
+}
+.info {
+    position: absolute;
+    padding-top:200px;
+    padding-right: 100px;
+    right: 100px;
+}
+.h1 {
+    font-size: 40px;
+}
+.btn {
+    width: 200px;
+    height: 50px;
+    background-color: #00ced1;
+    border: none;
+    margin-left: 745px;
+    margin-top: 420px;
+    
+}
+.btncol {
+    color: white;
+}
+.p {
+    width: 400px;
+    word-spacing:5px;
+    padding-bottom: 10px;
+    line-height: 25px;
+    color: 	#708090;
+    font-size: 15px;
+    font-weight: 300;
+}
+
+.main {
+    padding-top: 100px;
+    padding-bottom: 400px;
+    
+}
+.hmain {
+    font-size: 50px;
+    text-align: center;
+}
+.pmain {
+    color: 	#708090;
+    text-align: center;
+    line-height: 25px;
+    font-size: 15px;
+    font-weight: 300;
+    
+}
+.img {
+    position: absolute;
+    right: 500px;
+    
+}
+.main2 {
+    height: 600px;
+    background-image:url(fon.jpg);
+    background-size:1400px 600px;
+    background-repeat: no-repeat;
+}
+
+.design >.wrapper {
+	position: relative;
+	width: 500px;
+	height: 4px;
+	background: silver;
+	
+}
+.design >.wrapper >.progress {
+	position: absolute;
+	
+	width: 75%;
+	height: 100%;
+	background: #00ced1;
+}
+
+.web >.wrapper {
+	position: relative;
+	width: 500px;
+	height: 4px;
+	background: silver;
+	
+}
+.web >.wrapper >.progress {
+	position: absolute;
+	
+	width: 90%;
+	height: 100%;
+	background: #00ced1;
+}
+
+.market >.wrapper {
+	position: relative;
+	width: 500px;
+	height: 4px;
+	background: silver;
+	
+}
+.market >.wrapper >.progress {
+	position: absolute;
+	
+	width: 65%;
+	height: 100%;
+	background: #00ced1;
+}
+
+.main2 {
+    padding-left: 100px;
+    padding-top: 100px;
+  
+}
+
+
+
+.foot {
+    background-color: rgb(241, 48, 48);
+    text-decoration: rgb(248, 244, 0);
+    height: 200px;
+    
+}
+.foot {
+    display: flex;
+}
